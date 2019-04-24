@@ -101,7 +101,6 @@ class ParticleFilter {
   const bool initialized() const {
     return is_initialized;
   }
-
   /**
    * Used for obtaining debugging information related to particles.
    */
